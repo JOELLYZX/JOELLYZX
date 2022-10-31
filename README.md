@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JOELLYZX
+- 👋 Hi, I’m @FikriFaizulAzka
 - 👀 I’m interested in HTML/CSS
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on ...
